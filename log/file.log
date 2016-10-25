@@ -1,0 +1,2 @@
+[framework] 2016-10-25 16:11:23,905 - myLogger -1    [main] INFO  myLogger  - info message
+[framework] 2016-10-25 16:11:23,906 - myLogger -2    [main] ERROR myLogger  - error message
